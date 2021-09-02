@@ -1,0 +1,135 @@
+* {
+	margin:0;
+	padding:0;
+	color:white;
+	font-family: sans-serif;
+}
+
+body {
+	background-color: whitesmoke;
+	font-style: oblique;
+}
+
+/* Start of Header Styling */
+header {
+	width:100%;
+	background-color: #ff9f59;
+	margin-bottom: 25px;
+	box-shadow: 2px 2px 3px 1px black;
+	font-family: sans-serif;
+	text-shadow: 1px 1px black;
+}
+
+header nav {
+	display:flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	font-size: 26px;
+}
+
+header nav ul {
+    list-style-type: none;
+	padding-top: 30px;
+	padding-bottom:30px;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+header nav ul li a {
+	color: white;
+	font-style: oblique;
+	text-decoration: none;
+}
+/* End of Header Styling */
+
+.section {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+}
+
+/* Start of About Me Article Styling */
+.container {
+	display:flex;
+	flex-direction:column;
+	flex-wrap: nowrap;
+	width: 65%;
+	margin-left: 10px;
+}
+
+.aboutmeSection {
+	display:flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	background-color: #ff5962;
+	height: 250px;
+	justify-content: space-between;
+	padding:5%;
+	width: 100%;
+	box-shadow: 2px 2px 3px 1px black;
+	margin-bottom: 25px;
+}
+
+.aboutMe {
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start; 
+	padding-left: 3%;
+	align-items: flex-start;
+}
+
+.resume {
+	background-color: #59ff6a;
+	padding: 5%;
+	width: 100%;
+	display:flex;
+	justify-content: center;
+	box-shadow: 2px 2px 3px 1px black;
+	margin-bottom: 25px;
+}
+/* End of About Me Article Styling */
+
+.aside {
+	width: 25%;
+	background-color: #5985ff;
+	box-shadow: 2px 2px 3px 1px black;
+	height:auto;
+	margin: 0 1% 1% 1%;
+}
+
+.works {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	align-content: center;
+}
+
+.images {
+	width: 90%;
+	height: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.footer {
+	margin-top: 10px;
+	background-color: #8859ff;
+	box-shadow: 2px 2px 3px 1px black;
+	height: 100px;
+	width: auto;
+	padding-top: 35px;
+}
+
+footer div {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+}
