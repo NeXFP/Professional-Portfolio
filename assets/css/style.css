@@ -8,6 +8,10 @@
 body {
 	background-color: whitesmoke;
 	font-style: oblique;
+	background-image: url("https://i.imgur.com/kWnsElJ.png");
+				background-repeat: no-repeat;
+				background-attachment: fixed;
+				background-position: center;
 }
 
 /* Start of Header Styling */
@@ -15,9 +19,9 @@ header {
 	width:100%;
 	background-color: #ff9f59;
 	margin-bottom: 25px;
-	box-shadow: 2px 2px 3px 1px black;
+	box-shadow: 2px 2px 3px 1px #ff9f59;
 	font-family: sans-serif;
-	text-shadow: 1px 1px black;
+	text-shadow: 2px 2px 3px black;
 }
 
 header nav {
@@ -71,7 +75,7 @@ header nav ul li a {
 	justify-content: space-between;
 	padding:5%;
 	width: 100%;
-	box-shadow: 2px 2px 3px 1px black;
+	box-shadow: 2px 2px 3px 1px #ff5962;
 	margin-bottom: 25px;
 }
 
@@ -89,7 +93,7 @@ header nav ul li a {
 	width: 100%;
 	display:flex;
 	justify-content: center;
-	box-shadow: 2px 2px 3px 1px black;
+	box-shadow: 2px 2px 3px 1px #59ff6a;
 	margin-bottom: 25px;
 }
 /* End of About Me Article Styling */
@@ -97,7 +101,7 @@ header nav ul li a {
 .aside {
 	width: 25%;
 	background-color: #5985ff;
-	box-shadow: 2px 2px 3px 1px black;
+	box-shadow: 2px 2px 3px 1px #5985ff;
 	height:auto;
 	margin: 0 1% 1% 1%;
 }
@@ -121,7 +125,7 @@ header nav ul li a {
 .footer {
 	margin-top: 10px;
 	background-color: #8859ff;
-	box-shadow: 2px 2px 3px 1px black;
+	box-shadow: 2px 2px 3px 1px #8859ff;
 	height: 100px;
 	width: auto;
 	padding-top: 35px;
@@ -132,4 +136,9 @@ footer div {
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: center;
+}
+
+.resSize {
+	width: 90%;
+	height: 400px;
 }
