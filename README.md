@@ -34,3 +34,7 @@
     To summarize, majority of this is mainly a placeholder as a lot of the things on the website will be touched up on the later down the line during this bootcamp but I created this with the idea of being different from others. 
     I chose pastel colors to catch the eye and not be too straining on the eye as I wanted the readability of the webpage to be easy. 
     This also includes a slightly darker pastel gradient map in the background so that the sections pop out slightly more to the people looking at it.
+
+## Links
+    https://github.com/NeXFP/Professional-Portfolio
+    https://nexfp.github.io/Professional-Portfolio/
