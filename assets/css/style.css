@@ -147,3 +147,9 @@ footer div {
 	font-style: italic;
 	text-decoration: underline;
 }
+
+h2 {
+	text-shadow: 2px 2px 3px black;
+	font-family: sans-serif;
+	font-style: oblique;
+}
