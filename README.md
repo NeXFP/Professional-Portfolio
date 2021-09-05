@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to my Professional Portfolio
 
-You can use the [editor on GitHub](https://github.com/NeXFP/Professional-Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Header 
+    For my portfolio, I decided to use a flex box to center out my navigation menu at the top of the page. If you click on each individual portion of the navigation menu, 
+    it will properly direct you to each individual section on the webpage. Here I also added text shadows with extended blur so that the navigation menu stands out at the top of the webpage.
 
-### Markdown
+## About Me
+    For my about me, I included a photo of a logo I have from when I do graphic design in several forums. In this portion of the webpage, I introduce myself, including hobbies, what I do for work and the feeling I try to get across for this webpage. I also included that if you click on the logo, it would also take you to my deviantart portfolio via a new tab. This was primarily just something to include for the fun of it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Resume 
+    For this section, I included an embedded pdf of an actual resume I created. It works by simply scrolling up and down like you would a normal webpage. This was mainly used for a placeholder for when I actually include an updated resume.
 
-```markdown
-Syntax highlighted code block
+## Works 
+    For my works section, I've included two separate examples, one being a placeholder in which nothing will occur when you either click on it or hover over it. The second one, when clicked on, it should take you to a webpage known as Horiseon in a new tab. This is something I worked on during the 1st challenge of Week 1 in the Coding Bootcamp and I used this so that the works section wasn't just a placeholder section.
 
-# Header 1
-## Header 2
-### Header 3
+## Footer 
+    In my footer is essentially my contact me section. Included are three different icons. By clicking on each one, it directs you to a place where I can be contacted. The mail button should open up a popup asking to open up the Mail application on your pc. The linkedin icon will pull open a new tab with my LinkedIn profile open. The github icon will take you to my github profile in a new tab.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NeXFP/Professional-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Summary 
+    To summarize, majority of this is mainly a placeholder as a lot of the things on the website will be touched up on the later down the line during this bootcamp but I created this with the idea of being different from others. I chose pastel colors to catch the eye and not be too straining on the eye as I wanted the readability of the webpage to be easy. This also includes a slightly darker pastel gradient map in the background so that the sections pop out slightly more to the people looking at it.
