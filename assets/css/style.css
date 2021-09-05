@@ -142,3 +142,8 @@ footer div {
 	width: 90%;
 	height: 400px;
 }
+
+.news {
+	font-style: italic;
+	text-decoration: underline;
+}
