@@ -6,20 +6,17 @@
 }
 
 body {
-	background-color: whitesmoke;
-	font-style: oblique;
-	background-image: url("https://i.imgur.com/kWnsElJ.png");
-				background-repeat: no-repeat;
-				background-attachment: fixed;
-				background-position: center;
+	background-color: #7f5a83;
+	background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
 }
+
 
 /* Start of Header Styling */
 header {
 	width:100%;
-	background-color: #ff9f59;
+	background-color: #0d314c;
 	margin-bottom: 25px;
-	box-shadow: 2px 2px 3px 1px rgb(134, 142, 150);
+	box-shadow: 2px 2px 10px 2px black;
 	font-family: sans-serif;
 	text-shadow: 2px 2px 3px black;
 }
@@ -70,12 +67,12 @@ header nav ul li a {
 	display:flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
-	background-color: #ff5962;
+	background-color: #233644;
 	height: 250px;
 	justify-content: space-between;
 	padding:5%;
 	width: 100%;
-	box-shadow: 2px 2px 3px 1px rgb(134, 142, 150);
+	box-shadow: 2px 2px 8px 2px black;
 	margin-bottom: 25px;
 }
 
@@ -88,20 +85,20 @@ header nav ul li a {
 }
 
 .resume {
-	background-color: #59ff6a;
+	background-color: #233644;
 	padding: 5%;
 	width: 100%;
 	display:flex;
 	justify-content: center;
-	box-shadow: 2px 2px 3px 1px rgb(134, 142, 150);
+	box-shadow:  2px 2px 8px 2px black;
 	margin-bottom: 25px;
 }
 /* End of About Me Article Styling */
 
 .aside {
 	width: 25%;
-	background-color: #5985ff;
-	box-shadow: 2px 2px 3px 1px rgb(134, 142, 150);
+	background-color: #233644;
+	box-shadow:  2px 2px 8px 2px black;
 	height:auto;
 	margin: 0 1% 1% 1%;
 }
@@ -124,9 +121,9 @@ header nav ul li a {
 
 .footer {
 	margin-top: 10px;
-	background-color: #8859ff;
-	box-shadow: 2px 2px 3px 1px rgb(134, 142, 150);
-	height: 100px;
+	background-color: #7f5a83;
+	background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+	height: 100%;
 	width: auto;
 	padding-top: 35px;
 }
@@ -152,4 +149,22 @@ footer div {
 	text-shadow: 2px 2px 3px black;
 	font-family: sans-serif;
 	font-style: oblique;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #7f5a83;
+	background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background-color: #7f5a83;
+	background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+	box-shadow: inset 0 0 5px black;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background-color: #7f5a83;
+	background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
 }
