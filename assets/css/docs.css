@@ -3,7 +3,12 @@
 ***************/
 body:not(.black) {
   color: #444;
-  background-color: #fcfcfc;
+  background-color: #7f5a83;
+	background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+}
+body {
+  background-color: #7f5a83;
+	background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
 }
 
 p.box {
@@ -16,7 +21,8 @@ p {
   -webkit-font-smoothing: antialiased;
 }
 body.black p {
-  color: #fff;
+  background-color: #7f5a83;
+	background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
 }
 
 h1, h2, h3, h4, h5, h6 {
